@@ -1,0 +1,10 @@
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\bin\Debug\Communication_System.exe.config
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\bin\Debug\Communication_System.exe
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\bin\Debug\Communication_System.pdb
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\obj\Debug\Communication_System.csproj.AssemblyReference.cache
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\obj\Debug\Communication_System.Form1.resources
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\obj\Debug\Communication_System.Properties.Resources.resources
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\obj\Debug\Communication_System.csproj.GenerateResource.cache
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\obj\Debug\Communication_System.csproj.CoreCompileInputs.cache
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\obj\Debug\Communication_System.exe
+D:\Desktop\C#项目\编程项目文件\Communication_System\Communication_System\obj\Debug\Communication_System.pdb
